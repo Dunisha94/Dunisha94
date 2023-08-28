@@ -31,13 +31,13 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ dunisha-yapa" target="_blank">
+  <a href="[https://www.linkedin.com/in/ dunisha-yapa](https://www.linkedin.com/in/dunisha-yapa)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="dunisha indunil" target="_blank">
+  <a href="[dunisha indunil](https://www.facebook.com/dunisha.indunil?mibextid=9R9pXO)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
-  <a href="dunishayapa" target="_blank">
+  <a href="[dunishayapa](https://instagram.com/dunishaindunil?igshid=OGQ5ZDc2ODk2ZA==)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
