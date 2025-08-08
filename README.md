@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">As an enthusiastic and driven Software Engineer, I am dedicated to creating intuitive and user-friendly applications. My passion for innovation and commitment to self-improvement drive me to stay updated with the latest industry trends. I am seeking a full-stack software engineering role. My goal is to make a positive impact on the organization's success by delivering outstanding user experiences. With a focus on continuous learning and growth, I am excited to showcase my knowledge and technical skills to support the team and achieve project excellence.</p>
+<p align="left">As a passionate and motivated Software Engineer, I am committed to developing intuitive and user-friendly applications. My enthusiasm for innovation and dedication to self-improvement inspire me to remain current with the latest industry trends. I am actively seeking a full-stack software engineering role where I can contribute to the organization's success by delivering exceptional user experiences. With a strong emphasis on continuous learning and professional growth, I am eager to demonstrate my knowledge and technical expertise to support the team and drive project excellence.</p>
 
 ###
 
