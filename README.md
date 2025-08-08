@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://drive.google.com/drive/folders/1CyV7bX4fQHaGdDb7N7XRBkI5EofsvEBy"/>
+  <img height="200" src=""/>
 </div>
 
 ###
