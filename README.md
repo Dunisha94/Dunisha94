@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">As an enthusiastic, hard-working and self-motivated team player, I would like to utilize my knowledge, skills and work experience to excel in a technical career path and towards personal development and to contribute to achieving organizational goals.</p>
+<p align="left">As an enthusiastic and driven Software Engineer, I am dedicated to creating intuitive and user-friendly applications. My passion for innovation and commitment to self-improvement drive me to stay updated with the latest industry trends. I am seeking a full-stack software engineering role. My goal is to make a positive impact on the organization's success by delivering outstanding user experiences. With a focus on continuous learning and growth, I am excited to showcase my knowledge and technical skills to support the team and achieve project excellence.</p>
 
 ###
 
