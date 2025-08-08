@@ -107,8 +107,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
