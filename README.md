@@ -17,7 +17,7 @@
 ###
 
 <div align="center">
-  <img height="200" src=""/>
+  <img height="200" src="Building the Future with Smart Software.gif"/>
 </div>
 
 ###
