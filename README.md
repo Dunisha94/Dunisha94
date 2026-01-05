@@ -34,7 +34,7 @@
   <a href="https://www.linkedin.com/in/dunisha-yapa" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.gg/https://dunisha-indunil.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://dunisha-indunil.netlify.app/" height="30" width="40" /></a
+  <a href="https://discord.gg/https://dunisha-indunil.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://dunisha-indunil.netlify.app/" height="52" width="40" /></a
   <a href="https://www.facebook.com/dunisha.indunil?mibextid=9R9pXO" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
